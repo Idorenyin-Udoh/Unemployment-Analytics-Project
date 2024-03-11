@@ -69,20 +69,20 @@ To enhance the dashboard's interactivity, the following slicers were created:
 
 1. **Global Trend**: The global unemployment rate experienced a steady decline until 2020, when it surged to a peak of 16%. This was most likely due to the COVID-19 pandemic that led to a loss of jobs for millions of people. There, however, was a rapid fall between 2020 and 2022 and then a more steady decrease leading up to 2024.
 
-![Global trend](https://github.com/Idorenyin-Udoh/Unemployment-Analytics-Project/assets/162564901/b2064d1f-beb2-4390-abba-f11e7b78d439)
+   ![Global trend](https://github.com/Idorenyin-Udoh/Unemployment-Analytics-Project/assets/162564901/b2064d1f-beb2-4390-abba-f11e7b78d439)
 
-2. **Trend Per Region**: Europe had the highest unemployment rate in 2014 (17.24%), but has since seen a steady decline, with the rate reaching 10.52% in 2024. South America recorded the highest rate in 2020 (16.25%). Presently, Africa has the highest unemployment rate at 13.23%, while Oceania, with 9.58%, has the lowest rate.
+3. **Trend Per Region**: Europe had the highest unemployment rate in 2014 (17.24%), but has since seen a steady decline, with the rate reaching 10.52% in 2024. South America recorded the highest rate in 2020 (16.25%). Presently, Africa has the highest unemployment rate at 13.23%, while Oceania, with 9.58%, has the lowest rate.
 
-![Region trend](https://github.com/Idorenyin-Udoh/Unemployment-Analytics-Project/assets/162564901/2ad74207-2b64-45f0-939a-4e7833053cee)
+   ![Region trend](https://github.com/Idorenyin-Udoh/Unemployment-Analytics-Project/assets/162564901/2ad74207-2b64-45f0-939a-4e7833053cee)
 
-3. **Average Rate Per Region**: Africa (13.39%) has the highest average unemployment rate, while Oceania (9.98%) has the lowest average rate.
+5. **Average Rate Per Region**: Africa (13.39%) has the highest average unemployment rate, while Oceania (9.98%) has the lowest average rate.
 
-![Region averages](https://github.com/Idorenyin-Udoh/Unemployment-Analytics-Project/assets/162564901/88536f37-1f08-4e7b-8249-c9f4fb0a2a72)
+   ![Region averages](https://github.com/Idorenyin-Udoh/Unemployment-Analytics-Project/assets/162564901/88536f37-1f08-4e7b-8249-c9f4fb0a2a72)
 
 4. **Country Data**: Cambodia, Niger, Qatar, Chad, and the Solomon Islands have the lowest unemployment rates, with Cambodia averaging only 0.46%. Conversely, Djibouti, the Palestinian Territories, Libya, South Africa, and Eswatini face the highest rates, with Djibouti averaging 49.09%.
 
-![Top countries](https://github.com/Idorenyin-Udoh/Unemployment-Analytics-Project/assets/162564901/da91dc2a-942c-42ed-809f-faf3b2e470a9)
-![Botttom countries](https://github.com/Idorenyin-Udoh/Unemployment-Analytics-Project/assets/162564901/46c1fa59-a383-40b2-8c7c-4cf3ace61e61)
+   ![Top countries](https://github.com/Idorenyin-Udoh/Unemployment-Analytics-Project/assets/162564901/da91dc2a-942c-42ed-809f-faf3b2e470a9)
+   ![Botttom countries](https://github.com/Idorenyin-Udoh/Unemployment-Analytics-Project/assets/162564901/46c1fa59-a383-40b2-8c7c-4cf3ace61e61)
 
 #### Age and Gender Dynamics 
 1. **Gender Trend**: Throughout the past decade, more females have been unemployed than males, with a general decrease observed in both genders, except for 2020.
