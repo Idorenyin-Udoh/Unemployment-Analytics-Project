@@ -1,5 +1,15 @@
 # GLOBAL UNEMPLOYMENT DATA ANALYTICS
 
+## Table of Contents
+
+- [Problem Statement](#problem-statement)
+- [The Data](#the-data)
+- [Data Preparation](#data-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Insights](#insights)
+- [Dashboards](#dashboards)
+- [Recommendations](#recommendations)
+
 ### Problem Statement
 
 Unemployment remains a pressing economic and social issue worldwide, with implications for individuals, communities, and governments. Thus, gaining insights into the subject is important for informed policy-making, resource allocation, and economic planning, and will help to improve the percentage of individuals that are gainfully employed. 
